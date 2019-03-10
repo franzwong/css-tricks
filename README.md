@@ -6,4 +6,4 @@
 
 * [Tooltips](https://codepen.io/franz-wong/pen/vPZbPj)
 
-* [Push menu](https://codepen.io/franz-wong/pen/pYwYYP)
+* [Push menu](https://codepen.io/franz-wong/pen/moMdZb)
